@@ -22,13 +22,7 @@ This form includes input validation, error handling, and a success confirmation 
 - **Font Awesome** (icons)  
 
 ---
-
-## 📷 Preview  
-_Add a screenshot or GIF of the form here (optional)_  
-
-Example:  
-```md
-  
+## 📷 Demo Video  
 
 https://github.com/user-attachments/assets/d9a3a530-221d-42b1-8c47-0fd688e0975c
- 
+
